@@ -1,6 +1,12 @@
 {
     "name": "Awesome Thre AI GPT-3",
     "short_name": "AI THRE",
+    "description": "A sample PWA for testing purposes",
+    "start_url": "/",
+    "scope": "/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6",
     "icons": [
       {
         "src": "./assets/icon-192.png",
@@ -18,10 +24,7 @@
         "sizes": "512x512",
         "type": "image/png"
       }
-    ],
+    ]
     
-    "start_url": "./",
-    "background_color": "#3367D6",
-    "display": "standalone",
-    "theme_color": "#3367D6"
+  
   }
