@@ -19,9 +19,10 @@
         "type": "image/png"
       }
     ],
-    "theme_color": "#FFFFFF",
-    "background_color": "#FFFFFF",
-    "start_url": "/",
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#3367D6",
     "display": "standalone",
-    "orientation": "portrait"
+    "scope": "/",
+    "theme_color": "#3367D6"
   }
