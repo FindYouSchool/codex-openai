@@ -5,7 +5,7 @@ module.exports = {
 	],
 	
 	swDest: 'client/sw.js',
-	swDest: 'client/src-sw.js',
+	swSrc: 'src-sw.js',
 	ignoreURLParametersMatching: [
 		/^utm_/,
 		/^fbclid$/
